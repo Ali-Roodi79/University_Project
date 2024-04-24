@@ -1,7 +1,6 @@
 # NullBox
 
 This project is the university project for my bachelor's thesis.
-
 This project is a digital companion for the **NullBox** board game. This project is a game inspired by the game **Chronicle of Crime**.
 
 Using a collection of physical components that include cards representing locations, characters, and clues, the game lets you enter a world of mystery and investigate and solve criminal cases.
