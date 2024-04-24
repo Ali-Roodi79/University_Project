@@ -1,6 +1,6 @@
 # NullBox
 
-This project is the university project for my bachelor's thesis.
+This project is the university project for my bachelor's thesis.<br>
 This project is a digital companion for the **NullBox** board game and is inspired by the **Chronicle of Crime** game.
 I have implemented this project using Flutter.
 
